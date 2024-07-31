@@ -132,7 +132,7 @@
 
         <View
             android:layout_marginTop="10dp"
-            android:id="@+id/myView"
+            android:id="@+id/myView2"
             android:layout_width="match_parent"
             android:layout_marginHorizontal="25dp"
             android:layout_height="2dp"
