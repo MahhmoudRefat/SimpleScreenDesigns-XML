@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SimpleScreenDesigns-XML</string>
+    <string name="check_camera_permission">check camera permission</string>
+    <string name="check_read_contact_permission">check read contact permission</string>
 </resources>
