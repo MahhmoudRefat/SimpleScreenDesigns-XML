@@ -27,7 +27,7 @@
             android:name=".permissions_test"
             android:exported="false" />
         <activity
-            android:name=".calculator_screne"
+            android:name=".calculator_screen"
             android:exported="false" />
         <activity
             android:name=".profile_details_screen"
